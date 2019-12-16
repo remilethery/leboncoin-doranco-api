@@ -1,0 +1,23 @@
+{
+  "name": "leboncoin-doranco-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remilethery/leboncoin-doranco-api.git"
+  },
+  "author": "Remi Le Thery",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/remilethery/leboncoin-doranco-api/issues"
+  },
+  "homepage": "https://github.com/remilethery/leboncoin-doranco-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.8.1"
+  }
+}
